@@ -14,7 +14,7 @@
       "id": 3,
        "title": "Post 3 title",
       "content":"content 3 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"
-    },
+    }
   ],
   "profile": {
     "name": "typicode"
