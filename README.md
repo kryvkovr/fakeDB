@@ -1,11 +1,10 @@
 # fakeDB
 Fake Online REST server for teams
 
-### For updating data just update db.json file 
-https://github.com/kryvkovr/fakeDB/blob/master/db.json
+#### For updating data just update db.json file https://github.com/kryvkovr/fakeDB/blob/master/db.json
 
 
-API will be available by URL https://my-json-server.typicode.com/kryvkovr/fakeDB
+#### API will be available by URL https://my-json-server.typicode.com/kryvkovr/fakeDB
 
 For example for getting all contacts send GET request to https://my-json-server.typicode.com/kryvkovr/fakeDB/contracts  etc.
 
