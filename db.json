@@ -205,42 +205,42 @@
     {
       "id": "contractId",
       "name": "contract id",
-      "visibleByDefault": true
+      "visible": true
     },
     {
       "id": "outletId",
       "name": "outlet id",
-      "visibleByDefault": true
+      "visible": true
     },
     {
       "id": "swId",
       "name": "code SW",
-      "visibleByDefault": true
+      "visible": true
     },
     {
       "id": "outletName",
       "name": "outlet name",
-      "visibleByDefault": true
+      "visible": true
     },
     {
       "id": "address",
       "name": "address",
-      "visibleByDefault": true
+      "visible": true
     },
     {
       "id": "networkId",
       "name": "network name",
-      "visibleByDefault": true
+      "visible": true
     },
     {
       "id": "performance",
       "name": "performance indicator",
-      "visibleByDefault": true
+      "visible": true
     },
     {
       "id": "status",
       "name": "status",
-      "visibleByDefault": true
+      "visible": true
     }
   ],
   "profile": {
