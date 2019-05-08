@@ -1,206 +1,4 @@
 {
-  "contracts": [
-  {
-		"№ Контракта": "1685071532099",
-		"ID TT": "16471218-4219",
-		"Код SW": "1-211-225-7557",
-		"Наименование точки": "Tincidunt PC",
-		"Аддрес ТТ": "P.O. Box 152",
-		"Название Сети": "Semper ",
-		"Показатель эффективности": "-0.4721381058",
-		"Статус": "58710"
-	},
-	{
-		"№ Контракта": "1647100564699",
-		"ID TT": "16290108-2632",
-		"Код SW": "1-431-917-3614",
-		"Наименование точки": "Est Nunc Ullamcorper LLP",
-		"Аддрес ТТ": "395-3347 ",
-		"Название Сети": "Mauris Erat Incorporated",
-		"Показатель эффективности": "0.2032078642",
-		"Статус": "79628"
-	},
-	{
-		"№ Контракта": "1681052746799",
-		"ID TT": "16790222-1592",
-		"Код SW": "1-364-191-6473",
-		"Наименование точки": "Senectus Incorporated",
-		"Аддрес ТТ": "Ap #170-1141 Enim Street",
-		"Название Сети": "Vitae Velit LLP",
-		"Показатель эффективности": "0.1595121084",
-		"Статус": "87621"
-	},
-	{
-		"№ Контракта": "1664023068199",
-		"ID TT": "16950506-7893",
-		"Код SW": "1-185-103-9257",
-		"Наименование точки": "Diam At Consulting",
-		"Аддрес ТТ": "Ap #297-4992 Lorem, Street",
-		"Название Сети": "Sodales Elit Inc.",
-		"Показатель эффективности": "0.1044598561",
-		"Статус": "50054"
-	},
-	{
-		"№ Контракта": "1600112717899",
-		"ID TT": "16960618-4878",
-		"Код SW": "1-536-173-0007",
-		"Наименование точки": "Euismod Est",
-		"Аддрес ТТ": "266-7756 Mauris, St.",
-		"Название Сети": "Volutpat Nulla Facilisis Corp.",
-		"Показатель эффективности": "0.0292480549",
-		"Статус": "68181"
-	},
-	{
-		"№ Контракта": "1697110268299",
-		"ID TT": "16451109-7216",
-		"Код SW": "1-418-267-2272",
-		"Наименование точки": "Nulla At Sem Foundation",
-		"Аддрес ТТ": "P.O. Box 444, 390 Risus. Avenue",
-		"Название Сети": "Egestas Industries",
-		"Показатель эффективности": "-0.3473823717",
-		"Статус": "13813"
-	},
-	{
-		"№ Контракта": "1631063007699",
-		"ID TT": "16830626-9781",
-		"Код SW": "1-678-109-3725",
-		"Наименование точки": "Etiam Bibendum Consulting",
-		"Аддрес ТТ": "302-6569 Nec Rd.",
-		"Название Сети": "Ornare Incorporated",
-		"Показатель эффективности": "0.2696738327",
-		"Статус": "72043"
-	},
-	{
-		"№ Контракта": "1663033014199",
-		"ID TT": "16960121-4415",
-		"Код SW": "1-212-552-3274",
-		"Наименование точки": "Ut LLP",
-		"Аддрес ТТ": "Ap #987-170 Libero Av.",
-		"Название Сети": "At Sem Incorporated",
-		"Показатель эффективности": "-0.2323508039",
-		"Статус": "94518"
-	},
-	{
-		"№ Контракта": "1633062504299",
-		"ID TT": "16960227-4780",
-		"Код SW": "1-982-945-2990",
-		"Наименование точки": "Ac Mattis Associates",
-		"Аддрес ТТ": "645-2974 Viverra. Street",
-		"Название Сети": "Eu Associates",
-		"Показатель эффективности": "-0.3484174467",
-		"Статус": "46830"
-	},
-	{
-		"№ Контракта": "1610112864799",
-		"ID TT": "16501029-7074",
-		"Код SW": "1-351-563-5349",
-		"Наименование точки": "Congue Turpis In Ltd",
-		"Аддрес ТТ": "4420 Pellentesque, St.",
-		"Название Сети": "Magnis Consulting",
-		"Показатель эффективности": "-0.2130981708",
-		"Статус": "92420"
-	},
-	{
-		"№ Контракта": "1649052831699",
-		"ID TT": "16421217-6699",
-		"Код SW": "1-894-164-5391",
-		"Наименование точки": "Aliquet Nec PC",
-		"Аддрес ТТ": "P.O. Box 442, 1738 Et Road",
-		"Название Сети": "Porttitor Eros Nec LLC",
-		"Показатель эффективности": "0.087312166",
-		"Статус": "37736"
-	},
-	{
-		"№ Контракта": "1678020622599",
-		"ID TT": "16560807-3499",
-		"Код SW": "1-214-179-8092",
-		"Наименование точки": "Dolor Sit Institute",
-		"Аддрес ТТ": "616-729 Semper Rd.",
-		"Название Сети": "Eu Tempor Erat Foundation",
-		"Показатель эффективности": "0.2948093925",
-		"Статус": "06981"
-	},
-	{
-		"№ Контракта": "1623062106999",
-		"ID TT": "16890119-4889",
-		"Код SW": "1-850-940-6658",
-		"Наименование точки": "Mauris PC",
-		"Аддрес ТТ": "Ap #763-9355 Sodales Road",
-		"Название Сети": "Sit Amet Associates",
-		"Показатель эффективности": "0.0302475762",
-		"Статус": "28049"
-	},
-	{
-		"№ Контракта": "1641120846099",
-		"ID TT": "16031211-2170",
-		"Код SW": "1-458-776-7499",
-		"Наименование точки": "Eu Turpis LLP",
-		"Аддрес ТТ": "Ap #389-2628 Nec Ave",
-		"Название Сети": "Neque Venenatis Corp.",
-		"Показатель эффективности": "0.12696248",
-		"Статус": "60329"
-	},
-	{
-		"№ Контракта": "1684061232899",
-		"ID TT": "16050430-1078",
-		"Код SW": "1-386-337-7640",
-		"Наименование точки": "Erat Industries",
-		"Аддрес ТТ": "P.O. Box 688, 7081 Mus. Rd.",
-		"Название Сети": "Elit Ltd",
-		"Показатель эффективности": "0.2158042483",
-		"Статус": "33678"
-	},
-	{
-		"№ Контракта": "1638100828099",
-		"ID TT": "16870123-5445",
-		"Код SW": "1-273-612-4089",
-		"Наименование точки": "Id Risus LLP",
-		"Аддрес ТТ": "619-2318 Magnis St.",
-		"Название Сети": "Adipiscing Foundation",
-		"Показатель эффективности": "0.8068648284",
-		"Статус": "76222"
-	},
-	{
-		"№ Контракта": "1682051122299",
-		"ID TT": "16201013-4225",
-		"Код SW": "1-325-694-3387",
-		"Наименование точки": "Ullamcorper",
-		"Аддрес ТТ": "Ap #884-1462 Ligula. Ave",
-		"Название Сети": "Mollis Phasellus Company",
-		"Показатель эффективности": "0.1407726199",
-		"Статус": "73310"
-	},
-	{
-		"№ Контракта": "1645072318299",
-		"ID TT": "16390409-2552",
-		"Код SW": "1-263-571-6852",
-		"Наименование точки": "Faucibus Consulting",
-		"Аддрес ТТ": "Ap #724-3361 Proin Road",
-		"Название Сети": "Donec Company",
-		"Показатель эффективности": "-0.2369711931",
-		"Статус": "70359"
-	},
-	{
-		"№ Контракта": "1689112661099",
-		"ID TT": "16141119-2220",
-		"Код SW": "1-518-369-1831",
-		"Наименование точки": "Feugiat Incorporated",
-		"Аддрес ТТ": "660-8310 Nisl. Street",
-		"Название Сети": "Lorem Fringilla Ornare Industries",
-		"Показатель эффективности": "-0.0687453293",
-		"Статус": "87460"
-	},
-	{
-		"№ Контракта": "1656091535899",
-		"ID TT": "16410719-5382",
-		"Код SW": "1-223-458-8483",
-		"Наименование точки": "Sit Amet Ultricies LLC",
-		"Аддрес ТТ": "6852 Eu Rd.",
-		"Название Сети": "Mattis Velit",
-		"Показатель эффективности": "-0.5299725611",
-		"Статус": "18283"
-	}
-  ],
 	"contractGridColomns": [
     {
       "id": "contractId",
@@ -242,6 +40,308 @@
       "name": "status",
       "visible": true
     }
+  ],
+  "contracts": [
+   {
+		"contract id": "1685071532099",
+		"outlet id": "16471218-4219",
+		"code SW": "1-211-225-7557",
+		"outlet name": "Tincidunt PC",
+		"address": "P.O. Box 152, 1998 Metus. Rd.",
+		"network name": "Semper Egestas Urna LLP",
+		"performance indicator": "-0.4721381058",
+		"status": "58710"
+	},
+	{
+		"contract id": "1647100564699",
+		"outlet id": "16290108-2632",
+		"code SW": "1-431-917-3614",
+		"outlet name": "Est Nunc Ullamcorper LLP",
+		"address": "395-3347 Bibendum Av.",
+		"network name": "Mauris Erat Incorporated",
+		"performance indicator": "0.2032078642",
+		"status": "79628"
+	},
+	{
+		"contract id": "1681052746799",
+		"outlet id": "16790222-1592",
+		"code SW": "1-364-191-6473",
+		"outlet name": "Senectus Incorporated",
+		"address": "Ap #170-1141 Enim Street",
+		"network name": "Vitae Velit LLP",
+		"performance indicator": "0.1595121084",
+		"status": "87621"
+	},
+	{
+		"contract id": "1664023068199",
+		"outlet id": "16950506-7893",
+		"code SW": "1-185-103-9257",
+		"outlet name": "Diam At Consulting",
+		"address": "Ap #297-4992 Lorem, Street",
+		"network name": "Sodales Elit Inc.",
+		"performance indicator": "0.1044598561",
+		"status": "50054"
+	},
+	{
+		"contract id": "1600112717899",
+		"outlet id": "16960618-4878",
+		"code SW": "1-536-173-0007",
+		"outlet name": "Euismod Est Arcu Limited",
+		"address": "266-7756 Mauris, St.",
+		"network name": "Volutpat Nulla Facilisis Corp.",
+		"performance indicator": "0.0292480549",
+		"status": "68181"
+	},
+	{
+		"contract id": "1697110268299",
+		"outlet id": "16451109-7216",
+		"code SW": "1-418-267-2272",
+		"outlet name": "Nulla At Sem Foundation",
+		"address": "P.O. Box 444, 390 Risus. Avenue",
+		"network name": "Egestas Industries",
+		"performance indicator": "-0.3473823717",
+		"status": "13813"
+	},
+	{
+		"contract id": "1631063007699",
+		"outlet id": "16830626-9781",
+		"code SW": "1-678-109-3725",
+		"outlet name": "Etiam Bibendum Consulting",
+		"address": "302-6569 Nec Rd.",
+		"network name": "Ornare Incorporated",
+		"performance indicator": "0.2696738327",
+		"status": "72043"
+	},
+	{
+		"contract id": "1663033014199",
+		"outlet id": "16960121-4415",
+		"code SW": "1-212-552-3274",
+		"outlet name": "Ut LLP",
+		"address": "Ap #987-170 Libero Av.",
+		"network name": "At Sem Incorporated",
+		"performance indicator": "-0.2323508039",
+		"status": "94518"
+	},
+	{
+		"contract id": "1633062504299",
+		"outlet id": "16960227-4780",
+		"code SW": "1-982-945-2990",
+		"outlet name": "Ac Mattis Associates",
+		"address": "645-2974 Viverra. Street",
+		"network name": "Eu Associates",
+		"performance indicator": "-0.3484174467",
+		"status": "46830"
+	},
+	{
+		"contract id": "1610112864799",
+		"outlet id": "16501029-7074",
+		"code SW": "1-351-563-5349",
+		"outlet name": "Congue Turpis In Ltd",
+		"address": "4420 Pellentesque, St.",
+		"network name": "Magnis Consulting",
+		"performance indicator": "-0.2130981708",
+		"status": "92420"
+	},
+	{
+		"contract id": "1649052831699",
+		"outlet id": "16421217-6699",
+		"code SW": "1-894-164-5391",
+		"outlet name": "Aliquet Nec PC",
+		"address": "P.O. Box 442, 1738 Et Road",
+		"network name": "Porttitor Eros Nec LLC",
+		"performance indicator": "0.087312166",
+		"status": "37736"
+	},
+	{
+		"contract id": "1678020622599",
+		"outlet id": "16560807-3499",
+		"code SW": "1-214-179-8092",
+		"outlet name": "Dolor Sit Institute",
+		"address": "616-729 Semper Rd.",
+		"network name": "Eu Tempor Erat Foundation",
+		"performance indicator": "0.2948093925",
+		"status": "06981"
+	},
+	{
+		"contract id": "1623062106999",
+		"outlet id": "16890119-4889",
+		"code SW": "1-850-940-6658",
+		"outlet name": "Mauris PC",
+		"address": "Ap #763-9355 Sodales Road",
+		"network name": "Sit Amet Associates",
+		"performance indicator": "0.0302475762",
+		"status": "28049"
+	},
+	{
+		"contract id": "1641120846099",
+		"outlet id": "16031211-2170",
+		"code SW": "1-458-776-7499",
+		"outlet name": "Eu Turpis LLP",
+		"address": "Ap #389-2628 Nec Ave",
+		"network name": "Neque Venenatis Corp.",
+		"performance indicator": "0.12696248",
+		"status": "60329"
+	},
+	{
+		"contract id": "1684061232899",
+		"outlet id": "16050430-1078",
+		"code SW": "1-386-337-7640",
+		"outlet name": "Erat Industries",
+		"address": "P.O. Box 688, 7081 Mus. Rd.",
+		"network name": "Elit Ltd",
+		"performance indicator": "0.2158042483",
+		"status": "33678"
+	},
+	{
+		"contract id": "1638100828099",
+		"outlet id": "16870123-5445",
+		"code SW": "1-273-612-4089",
+		"outlet name": "Id Risus LLP",
+		"address": "619-2318 Magnis St.",
+		"network name": "Adipiscing Foundation",
+		"performance indicator": "0.8068648284",
+		"status": "76222"
+	},
+	{
+		"contract id": "1682051122299",
+		"outlet id": "16201013-4225",
+		"code SW": "1-325-694-3387",
+		"outlet name": "Ullamcorper Velit In Institute",
+		"address": "Ap #884-1462 Ligula. Ave",
+		"network name": "Mollis Phasellus Company",
+		"performance indicator": "0.1407726199",
+		"status": "73310"
+	},
+	{
+		"contract id": "1645072318299",
+		"outlet id": "16390409-2552",
+		"code SW": "1-263-571-6852",
+		"outlet name": "Faucibus Consulting",
+		"address": "Ap #724-3361 Proin Road",
+		"network name": "Donec Company",
+		"performance indicator": "-0.2369711931",
+		"status": "70359"
+	},
+	{
+		"contract id": "1689112661099",
+		"outlet id": "16141119-2220",
+		"code SW": "1-518-369-1831",
+		"outlet name": "Feugiat Incorporated",
+		"address": "660-8310 Nisl. Street",
+		"network name": "Lorem Fringilla Ornare Industries",
+		"performance indicator": "-0.0687453293",
+		"status": "87460"
+	},
+	{
+		"contract id": "1656091535899",
+		"outlet id": "16410719-5382",
+		"code SW": "1-223-458-8483",
+		"outlet name": "Sit Amet Ultricies LLC",
+		"address": "6852 Eu Rd.",
+		"network name": "Mattis Velit Justo Corporation",
+		"performance indicator": "-0.5299725611",
+		"status": "18283"
+	},
+	{
+		"contract id": "1692101658099",
+		"outlet id": "16810727-0004",
+		"code SW": "1-263-483-6164",
+		"outlet name": "Proin Industries",
+		"address": "P.O. Box 671, 3901 Cras St.",
+		"network name": "Risus Institute",
+		"performance indicator": "-0.1728077161",
+		"status": "01501"
+	},
+	{
+		"contract id": "1658073056799",
+		"outlet id": "16590230-9110",
+		"code SW": "1-578-981-1918",
+		"outlet name": "Phasellus Vitae Ltd",
+		"address": "403 Eu, Ave",
+		"network name": "Donec Associates",
+		"performance indicator": "-0.1545734024",
+		"status": "30742"
+	},
+	{
+		"contract id": "1667111464399",
+		"outlet id": "16660510-7686",
+		"code SW": "1-641-447-5308",
+		"outlet name": "Porttitor Ltd",
+		"address": "895-9157 Est, St.",
+		"network name": "Libero Proin Sed LLP",
+		"performance indicator": "0.1396557207",
+		"status": "37235"
+	},
+	{
+		"contract id": "1683122033099",
+		"outlet id": "16520304-4432",
+		"code SW": "1-569-400-6112",
+		"outlet name": "Massa Vestibulum Accumsan Ltd",
+		"address": "P.O. Box 865, 9317 Adipiscing. Street",
+		"network name": "Mattis Institute",
+		"performance indicator": "0.2359306132",
+		"status": "44435"
+	},
+	{
+		"contract id": "1613091128499",
+		"outlet id": "16160401-8174",
+		"code SW": "1-531-129-9953",
+		"outlet name": "Praesent Eu Nulla Associates",
+		"address": "P.O. Box 649, 8616 Maecenas Avenue",
+		"network name": "Velit LLP",
+		"performance indicator": "-0.0594578294",
+		"status": "63674"
+	},
+	{
+		"contract id": "1690121073299",
+		"outlet id": "16740723-4249",
+		"code SW": "1-164-435-3986",
+		"outlet name": "Molestie In Institute",
+		"address": "Ap #423-4826 Gravida Av.",
+		"network name": "Mauris Nulla Associates",
+		"performance indicator": "0.1172976156",
+		"status": "51548"
+	},
+	{
+		"contract id": "1682032106399",
+		"outlet id": "16060314-2910",
+		"code SW": "1-122-657-8136",
+		"outlet name": "Montes LLP",
+		"address": "P.O. Box 129, 5044 Libero Av.",
+		"network name": "Eros Nam Consequat Incorporated",
+		"performance indicator": "0.2320520375",
+		"status": "35925"
+	},
+	{
+		"contract id": "1632101129999",
+		"outlet id": "16400618-9114",
+		"code SW": "1-317-590-0960",
+		"outlet name": "Felis Donec LLC",
+		"address": "Ap #450-4573 Facilisis, Rd.",
+		"network name": "Adipiscing Fringilla LLP",
+		"performance indicator": "0.4963676368",
+		"status": "27728"
+	},
+	{
+		"contract id": "1628021855999",
+		"outlet id": "16610306-5642",
+		"code SW": "1-112-614-9673",
+		"outlet name": "Hendrerit Consectetuer Corp.",
+		"address": "138-5265 Sed Avenue",
+		"network name": "Elementum Sem Vitae Incorporated",
+		"performance indicator": "0.1056015776",
+		"status": "20305"
+	},
+	{
+		"contract id": "1632072561699",
+		"outlet id": "16470425-7528",
+		"code SW": "1-802-735-6178",
+		"outlet name": "Malesuada Corp.",
+		"address": "8156 Ultrices Avenue",
+		"network name": "Blandit Nam Nulla Incorporated",
+		"performance indicator": "0.0368560711",
+		"status": "60314"
+	}
   ],
   "profile": {
     "name": "typicode"
