@@ -201,6 +201,48 @@
 		"Статус": "18283"
 	}
   ],
+	"contractGridColomns": [
+    {
+      "id": "contractId",
+      "name": "contract id",
+      "visibleByDefault": true
+    },
+    {
+      "id": "outletId",
+      "name": "outlet id",
+      "visibleByDefault": true
+    },
+    {
+      "id": "swId",
+      "name": "code SW",
+      "visibleByDefault": true
+    },
+    {
+      "id": "outletName",
+      "name": "outlet name",
+      "visibleByDefault": true
+    },
+    {
+      "id": "address",
+      "name": "address",
+      "visibleByDefault": true
+    },
+    {
+      "id": "networkId",
+      "name": "network name",
+      "visibleByDefault": true
+    },
+    {
+      "id": "performance",
+      "name": "performance indicator",
+      "visibleByDefault": true
+    },
+    {
+      "id": "status",
+      "name": "status",
+      "visibleByDefault": true
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
