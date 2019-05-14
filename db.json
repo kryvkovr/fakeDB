@@ -1,43 +1,35 @@
 {
 	"contractGridColomns": [
     {
-      "id": "contractId",
-      "name": "contract id",
+      "dataField": "contract id",
       "visible": true
     },
     {
-      "id": "outletId",
-      "name": "outlet id",
+      "dataField": "outlet id",
       "visible": true
     },
     {
-      "id": "swId",
-      "name": "code SW",
+      "dataField": "code SW",
       "visible": true
     },
     {
-      "id": "outletName",
-      "name": "outlet name",
+      "dataField": "outlet name",
       "visible": true
     },
     {
-      "id": "address",
-      "name": "address",
+      "dataField": "address",
+      "visible": false
+    },
+    {
+      "dataField": "network name",
+      "visible": false,
+    },
+    {
+      "dataField": "performance indicator",
       "visible": true
     },
     {
-      "id": "networkId",
-      "name": "network name",
-      "visible": true
-    },
-    {
-      "id": "performance",
-      "name": "performance indicator",
-      "visible": true
-    },
-    {
-      "id": "status",
-      "name": "status",
+      "visibleIndex": "status",
       "visible": true
     }
   ],
