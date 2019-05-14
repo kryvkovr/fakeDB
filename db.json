@@ -22,7 +22,7 @@
     },
     {
       "dataField": "network name",
-      "visible": false,
+      "visible": false
     },
     {
       "dataField": "performance indicator",
