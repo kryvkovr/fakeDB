@@ -1,10 +1,8 @@
 {
-  "persons": {
-    "patients": [
-      {
-        "id": 1,
-        "title": "hello"
-      }
-    ]
-  }
+  "patients": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ]
 }
