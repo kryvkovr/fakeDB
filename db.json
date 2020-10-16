@@ -1,6 +1,7 @@
 {
   "patients": [
     {
+      "id":"51e0373c6f35bd826f47e9c2",
       "lastName": "Петров",
       "firstName": "Іван",
       "fatherName": "Романович",
