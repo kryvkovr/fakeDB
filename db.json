@@ -1,11 +1,16 @@
 {
-  "posts": [
+  "patients": [
     {
-      "id": 1,
-      "title": "hello"
+      "lastName": "Петров",
+      "firstName": "Іван",
+      "fatherName": "Романович",
+      "bith": "",
+      "city": "Лвів",
+      "sex": "Чол",
+      "weight": "100",
+      "height": "200",
+      "phone": "09733322233",
+      "mail": "hello@gmail.com"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
