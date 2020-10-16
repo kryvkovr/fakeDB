@@ -13,22 +13,5 @@
       "phone": "09733322233",
       "mail": "hello@gmail.com"
     }
-  ],
-  "persons":{
-    "patients": [
-      {
-        "id":"51e0373c6f35bd826f47e9c2",
-        "lastName": "Петров",
-        "firstName": "Іван",
-        "fatherName": "Романович",
-        "bith": "",
-        "city": "Лвів",
-        "sex": "Чол",
-        "weight": "100",
-        "height": "200",
-        "phone": "09733322233",
-        "mail": "hello@gmail.com"
-      }
-    ]
-  }
+  ]
 }
