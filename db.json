@@ -1,11 +1,10 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+  "persons": {
+    "patients": [
+      {
+        "id": 1,
+        "title": "hello"
+      }
+    ]
   }
 }
